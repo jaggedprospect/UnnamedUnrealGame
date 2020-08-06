@@ -7,5 +7,9 @@ Simply download the .exe file and run!
 # Objective
 Navigate through the underhalls of the castle to find the key that unlocks the Master Door. Inside, you will find your reward!
 
+# Credits
+Creative Lead - Madison Whitmer
+Programming/Level Design - Nate Heppard
+
 # License
 None
